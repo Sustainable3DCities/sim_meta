@@ -5,6 +5,8 @@ This repository is dedicated to storing the code for creating a PostgreSQL datab
 
 <br>
 <br>
-<img src="img/example.png" width="300" />
+
+<p align="center"><img src="img//daylight_factor.png" width=70%></img></p>
+
 <br>
 <br>
