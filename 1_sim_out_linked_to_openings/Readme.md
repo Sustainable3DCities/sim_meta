@@ -18,9 +18,6 @@ The figures below depict the [Obstruction Angle](https://github.com/Sustainable3
 <br>
 <br>
 
-<br>
-<br>
-
 <p align="center"><img src="https://github.com/Sustainable3DCities/sim_meta/blob/main/img/viz_window_simulation_output.png" width=70%></img></p>
 
 <br>
