@@ -8,6 +8,11 @@ depending on the value of the 3D point sim output geometry the window is linked 
 <br>
 <br>
 
+The figures below depict the [Obstruction Angle]() simulation output in [KITModelViewer](https://www.iai.kit.edu/english/4561.php) and [Google Earth Pro](https://www.google.com/earth/about/versions/) correspondingly:
+
+
+
+
 ## Organisation
 The "0_linking_sim_out_to_openings" folder contains SQL-scripts for finding the 
 opening/window closest to every 3D point simulation output geometry and storing
