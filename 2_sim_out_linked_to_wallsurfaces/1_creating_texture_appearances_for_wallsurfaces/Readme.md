@@ -8,7 +8,7 @@ the wall surface they correspond to.
 
 
 ## Organisation
-The "0_regular_point_grid" folder contains:
+The **0_regular_point_grid** folder contains:
 
 1. SQL-script for creating a DB user and assigning permissions
 2. Python-script that computes Affine transformation parameters based on all 3D
@@ -24,7 +24,7 @@ The "0_regular_point_grid" folder contains:
 <br>
 <br>
 
-The "1_irregular_point_grid" folder contains:
+The **1_irregular_point_grid** folder contains:
 
 1. SQL-script for creating a DB user and assigning permissions
 2. Python-script that computes Affine transformation parameters based on the vertex points 
