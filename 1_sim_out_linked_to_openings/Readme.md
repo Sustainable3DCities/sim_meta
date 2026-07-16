@@ -10,6 +10,20 @@ depending on the value of the 3D point sim output geometry the window is linked 
 
 The figures below depict the [Obstruction Angle](https://github.com/Sustainable3DCities/Obstruction_Angle_Tool) simulation output in [KITModelViewer](https://www.iai.kit.edu/english/4561.php) and [Google Earth Pro](https://www.google.com/earth/about/versions/) correspondingly:
 
+<br>
+<br>
+
+<p align="center"><img src="img//viz_window_simulation_output_KMV.png" width=70%></img></p>
+
+<br>
+<br>
+
+
+<p align="center"><img src="img//viz_window_simulation_output_KMV.png" width=70%></img></p>
+
+<br>
+<br>
+
 
 
 
