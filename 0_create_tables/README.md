@@ -8,7 +8,7 @@ schema within 3DCityDB.
 
 ## Organisation
 The "0_sql_create_table" folder contains SQL-scripts for creating the table 
-corresponding to every simulation type 
+corresponding to every simulation type. 
 
 The "1_sql_table_unique_ids" folder contains an indicatory SQL-script used to 
 create the unique IDs that are required in the table storing the simulation output
