@@ -1,1 +1,2 @@
-This folder contains image files
+
+This folder contains image files.
