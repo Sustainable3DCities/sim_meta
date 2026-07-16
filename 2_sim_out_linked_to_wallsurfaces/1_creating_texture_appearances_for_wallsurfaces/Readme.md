@@ -21,6 +21,8 @@ The "0_regular_point_grid" folder contains:
 4. SQL-script for taking a raster (created in step 3), saving it as a texture in citydb
    and relating this texture to the corresponding wall surface.
 
+<br>
+<br>
 
 The "1_irregular_point_grid" folder contains:
 
