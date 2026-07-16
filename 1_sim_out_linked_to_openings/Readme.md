@@ -13,7 +13,7 @@ The figures below depict the [Obstruction Angle](https://github.com/Sustainable3
 <br>
 <br>
 
-<p align="center"><img src="img//viz_window_simulation_output_KMV.png" width=70%></img></p>
+<p align="center"><img src="https://github.com/Sustainable3DCities/sim_meta/blob/main/img/viz_window_simulation_output_KMV.png" width=70%></img></p>
 
 <br>
 <br>
