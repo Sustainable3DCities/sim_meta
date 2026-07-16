@@ -19,6 +19,16 @@ More in particular, the repository contains code for:
 <br>
 <br>
 
+The figure below depicts flood simulation output expressed as a CityGML TINRelief that has been exported to KML/COLLADA from 3DCityDB and imported to Blender:
+
+<br>
+<br>
+
+<p align="center"><img src="https://github.com/Sustainable3DCities/sim_meta/blob/main/img/viz_TINRelief_simulation_output_Blender.png" width=70%></img></p>
+
+<br>
+<br>
+
 ## Organisation
 The "0_Create_TIN_relief" folder contains SQL-scripts for creating a TINRelief
 from 3D points derived from a DEM (Digital Elevation Model). 
