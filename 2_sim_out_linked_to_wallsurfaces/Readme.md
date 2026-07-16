@@ -14,6 +14,22 @@ Additionally, there are SQL-scripts that create rasters based on simulation out
 
 Finally, there are SQL-scripts that create texture appearances from rasters and apply 
 them to their corresponding WallSurface geometries in citydb. 
+
+The figures bellow depict how simulation output presented as regular (total annual irradiance) and irregular (noise) grid points can be visualized in Google Earth Pro after being exported as KML/COLLADA files from 3DCityDB implementing our solution:
+
+<br>
+<br>
+
+<p align="center"><img src="https://github.com/Sustainable3DCities/sim_meta/blob/main/img/viz_wallsurface_simulation_output.png" width=70%></img></p>
+
+<br>
+<br>
+
+<p align="center"><img src="https://github.com/Sustainable3DCities/sim_meta/blob/main/img/viz_wallsurface_simulation_output_irregular_point_grid.png" width=70%></img></p>
+
+<br>
+<br>
+
 <br>
 <br>
 
