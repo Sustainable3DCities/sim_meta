@@ -1,4 +1,4 @@
-# SQL-scripts for linking simulation output to TINRelief
+# Linking simulation output to TINRelief
 
 
 
