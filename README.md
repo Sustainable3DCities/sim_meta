@@ -27,7 +27,8 @@ More in particular, the repository contains code for:
 5. executing complex SQL-queries combining more than one type of sim outputs
    that are also considering semantic attributes of relevant CityGML objects
    (e.g. building).
-
+<br>
+<br>
 
 ## Organisation
 The "0_create_tables" folder contains indicatory SQL-scripts for creating &
@@ -48,15 +49,17 @@ corresponding X3D colour appearances.
 The "4_complex_sql_query" folder contains a SQL-query example that asks the database
 to return buildings that do not comply to solar access and noise thresholds and whose
 "class" is "habitation" (i.e., residential buildings) or "healthcare" (e.g., hospitals).
-
+<br>
+<br>
 
 ## Technical requirements
 These SQL-scripts were developed for 3DCityDB v.4.x running on
 pgAdmin 4 version 8.12 with PostgreSQL 17.0 and PostGIS 3.5.0.
 The Python code was developed using Python 3.8.8. 
-
+<br>
+<br>
 
 ## License and Usage
 This replication package is shared for peer-review purposes.
 Upon formal publication of the associated manuscript, the code 
-will be officially released under the BSD License.
+will be officially released under the BSD-3-Clause-License.
