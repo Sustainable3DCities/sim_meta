@@ -19,10 +19,6 @@ The figures below depict the [Obstruction Angle](https://github.com/Sustainable3
 <br>
 
 
-<p align="center"><img src="img//viz_window_simulation_output_KMV.png" width=70%></img></p>
-
-<br>
-<br>
 
 
 
