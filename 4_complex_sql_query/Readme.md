@@ -10,6 +10,7 @@ The figure below showcases the highlighted buildings failing to comply to the so
 <br>
 <br>
 
+<p align="center"><img src="https://github.com/Sustainable3DCities/sim_meta/blob/main/img/viz_complex_sql_sim_output.png" width=70%></img></p>
 
 
 <br>
